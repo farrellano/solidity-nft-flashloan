@@ -14,5 +14,5 @@ npx hardhat run scripts/deploy.js
 
 This example is a real state nft 
 
-![Alt text](http://full/path/to/img.jpg "Real State")
+![Alt text](escrow.png "Real State")
 
